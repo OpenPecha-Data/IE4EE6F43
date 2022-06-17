@@ -1,0 +1,34 @@
+id: IE4EE6F43
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:41:43.500468'
+last_modified: '2022-06-17T13:41:43.500473'
+parser: null
+source_metadata:
+  title: Replies to Questions
+  language: pt
+  description: 'A selection of replies, responses or answers to questions (dris lan):'
+  volume:
+    fABAD:
+      title: Advice for Hor Özer
+      base_file: fABAD.txt
+      order: 1
+      parent: General
+    fA9D0:
+      title: Khandro's Plea
+      base_file: fA9D0.txt
+      order: 2
+      parent: General
+    fD22D:
+      title: The Pointing-the-Staff Instruction
+      base_file: fD22D.txt
+      order: 3
+      parent: General
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
